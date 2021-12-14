@@ -51,5 +51,10 @@ namespace Tic_Tac_Toe
         {
             ticTacToe1.Hide();
         }
+
+        private void ticTacToe1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

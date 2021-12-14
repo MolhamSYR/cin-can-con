@@ -93,6 +93,7 @@
             this.ticTacToe1.Name = "ticTacToe1";
             this.ticTacToe1.Size = new System.Drawing.Size(836, 467);
             this.ticTacToe1.TabIndex = 5;
+            this.ticTacToe1.Load += new System.EventHandler(this.ticTacToe1_Load);
             // 
             // Form1
             // 
